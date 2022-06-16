@@ -66,7 +66,7 @@ services:
       # enable use of zotero's translation-server service to query for URLs; defaults to true if undefined
       zotero: true
       # URL where to contact Zotero
-      zoteroInterface: 127.0.0.1
+      zoteroInterface: zotero
       # zotero's server port
       zoteroPort: 1969
       # whether the proxy should be used to contact zotero
